@@ -24,7 +24,7 @@ Here are some features:
 
 ## Useful Links
 
-- [Coming Soon]
+[![](https://img.shields.io/badge/Official-Website-brightgreen)](https://bytethiscode.com)
 
 ## Android Version Support
 
