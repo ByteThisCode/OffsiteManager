@@ -15,8 +15,6 @@ Here are some features:
 - **Languages**: Support for both Italian/English
 - and more coming soon!
 
-sh Languages;
-and more coming soon!
 
 ## Downloads
 
@@ -30,7 +28,7 @@ and more coming soon!
 
 ## Android Version Support
 
-- Android 7+: Work on both new and old devices
+- Android 7+: Works on both new and old devices
 
 
 ## Bug Reports
