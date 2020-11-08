@@ -16,7 +16,7 @@ Here are some features:
 - and more coming soon!
 
 
-## Downloads
+## Downloads - Latest Beta
 
 [![](https://img.shields.io/badge/Play%20Store-v2.017-yellow)](https://play.google.com/store/apps/details?id=com.bytethiscode.offsitemanager)
 <br>
