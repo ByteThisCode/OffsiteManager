@@ -19,13 +19,6 @@ Here are some features:
 ## Downloads - Latest Beta
 
 [![](https://img.shields.io/badge/Play%20Store-v2.031-yellow)](https://play.google.com/store/apps/details?id=com.bytethiscode.offsitemanager)
-<br>
-<details><summary>CLICK ME</summary>
-<p>
-[![](https://img.shields.io/badge/Apk%20Beta-v2.031-blue)](https://github.com/ByteThisCode/OffsiteManager/releases)
-</p>
-</details>
-
 
 ## Useful Links
 
