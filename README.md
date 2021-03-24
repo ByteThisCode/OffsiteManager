@@ -11,6 +11,7 @@ Here are some features:
 - **Debts**: Create and manage Debits
 - **Notes**: Create both personal/shared Notes
 - **Shopping List**: Create a shared Shopping List
+- **Task**: Create and organize tasks for all members  
 - **Notices**: Send Notices to all Group's Members
 - **Languages**: Support for both Italian/English
 - and more coming soon!
