@@ -19,7 +19,7 @@ Here are some features:
 
 ## Downloads - Latest Beta
 
-[![](https://img.shields.io/badge/Play%20Store-v2.031-yellow)](https://play.google.com/store/apps/details?id=com.bytethiscode.offsitemanager)
+[![](https://img.shields.io/badge/Play%20Store-v2.032-yellow)](https://play.google.com/store/apps/details?id=com.bytethiscode.offsitemanager)
 
 ## Useful Links
 
